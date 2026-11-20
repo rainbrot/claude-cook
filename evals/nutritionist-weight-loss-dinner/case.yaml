@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: nutritionist-weight-loss-dinner
+expected_outcome: |
+  Runs the targets command, designs a satisfying, high-protein dinner that fits a reasonable share of the calorie target, and shows the label against the targets without moralizing.

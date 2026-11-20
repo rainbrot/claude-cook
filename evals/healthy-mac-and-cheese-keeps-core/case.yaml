@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: healthy-mac-and-cheese-keeps-core
+expected_outcome: |
+  A lighter mac and cheese that keeps real pasta and a creamy, real-cheese sauce (the craving core), explains the trade-offs, and reports per-serving nutrition from the engine.

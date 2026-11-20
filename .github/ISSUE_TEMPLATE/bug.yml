@@ -1,0 +1,19 @@
+name: Bug
+description: Something broke (install, script error, skill not triggering)
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps or command to reproduce
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: Claude Code 2.x on macOS, Python 3.12

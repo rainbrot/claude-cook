@@ -1,0 +1,27 @@
+{
+  "name": "cook",
+  "version": "1.0.0",
+  "description": "Let Claude cook, literally. Michelin-level recipes for real home kitchens: reads your craving, designs the dish with food science, verifies it, and adds an as-cooked USDA nutrition label. /chef /nutritionist /meal-plan /nutrition-label /fridge /rescue.",
+  "author": {
+    "name": "Ishaan Sethi",
+    "url": "https://github.com/rainbrot"
+  },
+  "homepage": "https://github.com/rainbrot/claude-cook",
+  "repository": "https://github.com/rainbrot/claude-cook",
+  "license": "MIT",
+  "keywords": [
+    "cooking",
+    "recipes",
+    "recipe-generator",
+    "chef",
+    "nutrition",
+    "nutrition-facts",
+    "macros",
+    "meal-planning",
+    "meal-prep",
+    "food-science",
+    "usda",
+    "nutritionist",
+    "grocery-list"
+  ]
+}

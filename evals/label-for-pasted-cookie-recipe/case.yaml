@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: label-for-pasted-cookie-recipe
+expected_outcome: |
+  A per-cookie nutrition label for the recipe exactly as given (24 servings), with added sugars reported and every conversion assumption listed, and no changes to the recipe.

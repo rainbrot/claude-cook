@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: meal-plan-vegetarian-protein
+expected_outcome: |
+  A component-based vegetarian lunch plan from one Sunday session, about 35 g protein per lunch verified with the engine, with a prep plan, grocery list and safe storage for days 4-5.

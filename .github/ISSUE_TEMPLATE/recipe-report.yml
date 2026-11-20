@@ -1,0 +1,27 @@
+name: Recipe report
+description: Claude Cook got something wrong (or very right) in a real kitchen
+labels: [recipe-report]
+body:
+  - type: textarea
+    id: prompt
+    attributes:
+      label: What you asked
+      description: The prompt or command, e.g. `/chef crispy tofu for 2`
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened when you cooked it
+      description: Burnt garlic, soggy crust, too salty, timing off, wrong cup weight... the more specific the better.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: The recipe it gave you (paste or attach)
+  - type: input
+    id: setup
+    attributes:
+      label: Model and app
+      placeholder: e.g. Claude Opus in Claude Code, plugin v1.0.0

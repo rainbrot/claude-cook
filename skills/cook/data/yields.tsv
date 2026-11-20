@@ -1,0 +1,40 @@
+class	method	yield	fat_kept	pairs
+beef	boil	0.877	0.978	5
+beef	braise	0.661	0.826	69
+beef	broil	0.749	0.816	46
+beef	grill	0.777	1.000	107
+beef	roast	0.780	0.939	55
+beef	simmer	0.709	0.976	6
+beef_ground	bake	0.751	0.692	7
+beef_ground	broil	0.740	0.593	12
+beef_ground	brown	0.703	0.699	7
+chicken	braise	0.811	0.867	9
+chicken	broil	0.746	0.628	4
+chicken	fry	0.684	0.942	8
+chicken	roast	0.717	0.614	36
+chicken	simmer	0.692	0.684	9
+chicken	stew	0.739	0.629	22
+fish_fatty	bake	0.780	1.000	25
+fish_lean	bake	0.780		45
+greens	boil	1.052		22
+lamb	braise	0.650	0.857	39
+lamb	broil	0.721	0.704	25
+lamb	roast	0.747	0.759	53
+lamb_ground	broil	0.801	0.778	4
+legume	boil	2.669	0.991	28
+pork	braise	0.731	0.994	24
+pork	broil	0.769	0.831	16
+pork	panfry	0.740	0.916	4
+pork	roast	0.765	0.977	19
+pork	simmer	1.044	1.000	5
+potato	bake	0.783		4
+roots	boil	1.060		10
+shellfish	poach	0.780		15
+turkey	broil	0.708	0.949	6
+turkey	roast	0.755	0.648	34
+turkey	simmer	0.682	0.894	4
+veal	braise	0.599	1.000	24
+veal	roast	0.767	1.000	12
+veg	bake	0.877		4
+veg	boil	1.019	0.987	87
+veg	stirfry	0.848	1.000	5

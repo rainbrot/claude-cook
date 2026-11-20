@@ -1,0 +1,26 @@
+{
+  "name": "rainbrot",
+  "owner": {
+    "name": "Ishaan Sethi",
+    "url": "https://github.com/rainbrot"
+  },
+  "metadata": {
+    "description": "Plugins by rainbrot. cook: recipes, nutrition labels and meal plans from a chef's understanding of flavor and food science."
+  },
+  "plugins": [
+    {
+      "name": "cook",
+      "source": "./",
+      "description": "Let Claude cook: craving-aware, Michelin-level home recipes checked with food science, with as-cooked USDA nutrition labels, meal plans and grocery lists.",
+      "version": "1.0.0",
+      "category": "lifestyle",
+      "keywords": [
+        "cooking",
+        "recipes",
+        "nutrition",
+        "meal-planning",
+        "food-science"
+      ]
+    }
+  ]
+}

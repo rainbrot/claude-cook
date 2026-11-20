@@ -1,0 +1,21 @@
+name: Ingredient or nutrition fix
+description: An ingredient matched the wrong USDA food, a cup weight is off, or a food is missing
+labels: [data]
+body:
+  - type: input
+    id: line
+    attributes:
+      label: The ingredient line
+      placeholder: 2 tbsp white miso
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What the engine matched or computed
+      description: Paste the match line from `nutrition.py analyze`.
+  - type: textarea
+    id: right
+    attributes:
+      label: What it should be
+      description: The right USDA food (an fdc id from `nutrition.py search` if you have it), or the correct weight with a source.

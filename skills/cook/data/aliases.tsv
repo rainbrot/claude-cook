@@ -1,0 +1,649 @@
+# alias	fdc_id	options (unit grams, edible fraction, added_sugar)	USDA description
+onion	170000		Onions, raw
+yellow onion	170000		Onions, raw
+white onion	170000		Onions, raw
+red onion	170000		Onions, raw
+sweet onion	170008		Onions, sweet, raw
+shallot	170499		Shallots, raw
+garlic	169230	head=40	Garlic, raw
+garlic clove	169230		Garlic, raw
+ginger	169231	inch=11;knob=15	Ginger root, raw
+fresh ginger	169231	inch=11;knob=15	Ginger root, raw
+scallion	170005		Onions, spring or scallions (includes tops and bulb), raw
+green onion	170005		Onions, spring or scallions (includes tops and bulb), raw
+spring onion	170005		Onions, spring or scallions (includes tops and bulb), raw
+leek	169246		Leeks, (bulb and lower leaf-portion), raw
+chive	169994		Chives, raw
+lemongrass	168573	stalk=20	Lemon grass (citronella), raw
+carrot	170393		Carrots, raw
+celery	169988	rib=40	Celery, raw
+bell pepper	170108		Peppers, sweet, red, raw
+red bell pepper	170108		Peppers, sweet, red, raw
+green bell pepper	170427		Peppers, sweet, green, raw
+yellow bell pepper	169383		Peppers, sweet, yellow, raw
+orange bell pepper	169383		Peppers, sweet, yellow, raw
+jalapeno	168576		Peppers, jalapeno, raw
+serrano	169395		Peppers, serrano, raw
+serrano pepper	169395		Peppers, serrano, raw
+poblano	170497	each=110	Peppers, hot chili, green, raw
+habanero	170106	each=8	Peppers, hot chili, red, raw
+thai chili	170106	each=2	Peppers, hot chili, red, raw
+fresno chili	170106	each=10	Peppers, hot chili, red, raw
+red chili	170106	each=10	Peppers, hot chili, red, raw
+green chili	170497	each=15	Peppers, hot chili, green, raw
+tomato	170457		Tomatoes, red, ripe, raw, year round average
+roma tomato	170457	each=62	Tomatoes, red, ripe, raw, year round average
+plum tomato	170457	each=62	Tomatoes, red, ripe, raw, year round average
+cherry tomato	170457	each=17	Tomatoes, red, ripe, raw, year round average
+grape tomato	170457	each=8	Tomatoes, red, ripe, raw, year round average
+potato	170026		Potatoes, flesh and skin, raw
+russet potato	170027		Potatoes, russet, flesh and skin, raw (Includes foods for USDA's Food Distribution Program)
+yukon gold potato	170028		Potatoes, white, flesh and skin, raw
+red potato	170029		Potatoes, red, flesh and skin, raw
+baby potato	170029	each=40	Potatoes, red, flesh and skin, raw
+sweet potato	168482		Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)
+butternut squash	169295		Squash, winter, butternut, raw
+acorn squash	168472		Squash, winter, acorn, raw
+spaghetti squash	169298		Squash, winter, spaghetti, raw
+pumpkin puree	168450		Pumpkin, canned, without salt
+zucchini	169291		Squash, summer, zucchini, includes skin, raw
+yellow squash	168464		Squash, summer, crookneck and straightneck, raw
+eggplant	169228		Eggplant, raw
+cucumber	168409		Cucumber, with peel, raw
+english cucumber	168409	each=400	Cucumber, with peel, raw
+broccoli	170379		Broccoli, raw
+broccoli florets	170379		Broccoli, raw
+broccolini	170379		Broccoli, raw
+cauliflower	169986		Cauliflower, raw
+cabbage	169975		Cabbage, raw
+green cabbage	169975		Cabbage, raw
+red cabbage	169977		Cabbage, red, raw
+purple cabbage	169977		Cabbage, red, raw
+napa cabbage	169979		Cabbage, chinese (pe-tsai), raw
+bok choy	170390		Cabbage, chinese (pak-choi), raw
+baby bok choy	170390	each=60	Cabbage, chinese (pak-choi), raw
+brussels sprout	170383		Brussels sprouts, raw
+kale	168421		Kale, raw
+spinach	168462		Spinach, raw
+baby spinach	168462		Spinach, raw
+frozen spinach	169287		Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)
+arugula	169387		Arugula, raw
+romaine	169247	head=625	Lettuce, cos or romaine, raw
+romaine lettuce	169247	head=625	Lettuce, cos or romaine, raw
+iceberg lettuce	169248		Lettuce, iceberg (includes crisphead types), raw
+lettuce	169249		Lettuce, green leaf, raw
+mixed greens	169249		Lettuce, green leaf, raw
+swiss chard	169991		Chard, swiss, raw
+collard green	170406		Collards, raw
+asparagus	168389	bunch=450	Asparagus, raw
+green bean	169961		Beans, snap, green, raw
+pea	170016		Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+frozen pea	170016		Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+snap pea	170010		Peas, edible-podded, raw
+snow pea	170010		Peas, edible-podded, raw
+corn	169998		Corn, sweet, yellow, raw
+corn kernel	168398		Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)
+frozen corn	168398		Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)
+mushroom	169251		Mushrooms, white, raw
+button mushroom	169251		Mushrooms, white, raw
+white mushroom	169251		Mushrooms, white, raw
+cremini mushroom	168434		Mushrooms, brown, italian, or crimini, raw
+baby bella mushroom	168434		Mushrooms, brown, italian, or crimini, raw
+portobello mushroom	169255		Mushrooms, portabella, raw
+shiitake mushroom	169242		Mushrooms, shiitake, raw
+dried shiitake	168436		Mushrooms, shiitake, dried
+oyster mushroom	168580		Mushrooms, oyster, raw
+avocado	171705		Avocados, raw, all commercial varieties
+beet	169145		Beets, raw
+radish	169276		Radishes, raw
+turnip	170465		Turnips, raw
+parsnip	170417		Parsnips, raw
+fennel	169385		Fennel, bulb, raw
+fennel bulb	169385		Fennel, bulb, raw
+okra	169260		Okra, raw
+edamame	168410		Edamame, frozen, unprepared
+bean sprout	169957		Mung beans, mature seeds, sprouted, raw
+tomatillo	168566		Tomatillos, raw
+radicchio	168564		Radicchio, raw
+endive	168412		Endive, raw
+watercress	170068		Watercress, raw
+artichoke heart	168387		Artichokes, (globe or french), frozen, unprepared
+celery root	170400		Celeriac, raw
+jicama	170073		Yambean (jicama), raw
+plantain	169130		Plantains, yellow, raw
+seaweed	170496		Seaweed, wakame, raw
+nori	170495	sheet=3	Seaweed, spirulina, dried
+kombu	168457		Seaweed, kelp, raw
+cilantro	169997	bunch=60	Coriander (cilantro) leaves, raw
+coriander leaf	169997		Coriander (cilantro) leaves, raw
+parsley	170416	bunch=60	Parsley, fresh
+flat leaf parsley	170416	bunch=60	Parsley, fresh
+basil	172232		Basil, fresh
+fresh basil	172232		Basil, fresh
+mint	173475		Spearmint, fresh
+fresh mint	173475		Spearmint, fresh
+dill	172233		Dill weed, fresh
+fresh dill	172233		Dill weed, fresh
+thyme	173470	sprig=0.8	Thyme, fresh
+fresh thyme	173470	sprig=0.8	Thyme, fresh
+rosemary	173473	sprig=1.5	Rosemary, fresh
+fresh rosemary	173473	sprig=1.5	Rosemary, fresh
+sage	170935	leaf=0.7	Spices, sage, ground
+fresh sage	170935	leaf=0.7	Spices, sage, ground
+tarragon	170937		Spices, tarragon, dried
+oregano	171328		Spices, oregano, dried
+dried oregano	171328		Spices, oregano, dried
+dried basil	171317		Spices, basil, dried
+dried thyme	170938		Spices, thyme, dried
+dried rosemary	171333		Spices, rosemary, dried
+dried dill	171322		Spices, dill weed, dried
+dried parsley	170930		Spices, parsley, dried
+bay leaf	170917	each=0.2;leaf=0.2	Spices, bay leaf
+lemon	167746		Lemons, raw, without peel
+lime	168155		Limes, raw
+lemon juice	167747	each=48	Lemon juice, raw
+lime juice	168156	each=44	Lime juice, raw
+lemon zest	167749	each=2	Lemon peel, raw
+lime zest	167749	each=1.5	Lemon peel, raw
+orange zest	169103	each=4	Orange peel, raw
+orange	169097		Oranges, raw, all commercial varieties
+orange juice	169098		Orange juice, raw (Includes foods for USDA's Food Distribution Program)
+apple	171688		Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)
+banana	173944		Bananas, raw
+strawberry	167762		Strawberries, raw
+blueberry	171711		Blueberries, raw
+frozen blueberry	173950		Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+raspberry	167755		Raspberries, raw
+blackberry	173946		Blackberries, raw
+frozen berry	168173		Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+grape	174683		Grapes, red or green (European type, such as Thompson seedless), raw
+mango	169910		Mangos, raw
+frozen mango	169910		Mangos, raw
+pineapple	169124		Pineapple, raw, all varieties
+peach	169928		Peaches, yellow, raw
+pear	169118		Pears, raw
+cherry	171719		Cherries, sweet, raw
+watermelon	167765		Watermelon, raw
+cantaloupe	169092		Melons, cantaloupe, raw
+pomegranate	169134		Pomegranates, raw
+pomegranate seed	169134		Pomegranates, raw
+kiwi	168153		Kiwifruit, green, raw
+grapefruit	174673		Grapefruit, raw, pink and red, all areas
+date	168191	each=24	Dates, medjool
+medjool date	168191	each=24	Dates, medjool
+raisin	168165		Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)
+dried cranberry	171723		Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)
+dried apricot	173941		Apricots, dried, sulfured, uncooked
+dried fig	174665		Figs, dried, uncooked
+coconut	170170	cup=85	Nuts, coconut meat, dried (desiccated), not sweetened
+shredded coconut	170170	cup=85	Nuts, coconut meat, dried (desiccated), not sweetened
+sweetened coconut	168586	cup=93	Nuts, coconut meat, dried (desiccated), sweetened, shredded
+applesauce	171695		Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)
+egg	171287		Egg, whole, raw, fresh
+large egg	171287		Egg, whole, raw, fresh
+egg white	172183		Egg, white, raw, fresh
+egg yolk	172184		Egg, yolk, raw, fresh
+butter	173430		Butter, without salt
+unsalted butter	173430		Butter, without salt
+salted butter	173410		Butter, salted
+ghee	173412		Butter oil, anhydrous
+clarified butter	173412		Butter oil, anhydrous
+milk	171265		Milk, whole, 3.25% milkfat, with added vitamin D
+whole milk	171265		Milk, whole, 3.25% milkfat, with added vitamin D
+2% milk	171267		Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D
+skim milk	171269		Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+heavy cream	170859		Cream, fluid, heavy whipping
+heavy whipping cream	170859		Cream, fluid, heavy whipping
+whipping cream	170859		Cream, fluid, heavy whipping
+double cream	170859		Cream, fluid, heavy whipping
+half and half	171255		Cream, fluid, half and half
+sour cream	171257		Cream, sour, cultured
+creme fraiche	171257		Cream, sour, cultured
+greek yogurt	171304	cup=227;tbsp=14	Yogurt, Greek, plain, whole milk
+plain greek yogurt	171304	cup=227;tbsp=14	Yogurt, Greek, plain, whole milk
+nonfat greek yogurt	170894	cup=227;tbsp=14	Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)
+yogurt	171284	cup=245;tbsp=15	Yogurt, plain, whole milk
+plain yogurt	171284	cup=245;tbsp=15	Yogurt, plain, whole milk
+buttermilk	170874		Milk, buttermilk, fluid, cultured, lowfat
+cream cheese	173418		Cheese, cream
+mozzarella	170845		Cheese, mozzarella, whole milk
+fresh mozzarella	170845		Cheese, mozzarella, whole milk
+part skim mozzarella	170847		Cheese, mozzarella, part skim milk
+shredded mozzarella	171244		Cheese, mozzarella, low moisture, part-skim
+cheddar	173414		Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+sharp cheddar	173414		Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+cheddar cheese	173414		Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+parmesan	170848		Cheese, parmesan, hard
+parmigiano reggiano	170848		Cheese, parmesan, hard
+grated parmesan	171247		Cheese, parmesan, grated
+pecorino romano	171249		Cheese, romano
+pecorino	171249		Cheese, romano
+feta	173420		Cheese, feta
+goat cheese	173435		Cheese, goat, soft type
+ricotta	170851		Cheese, ricotta, whole milk
+cottage cheese	172179		Cheese, cottage, creamed, large or small curd
+gruyere	171242		Cheese, gruyere
+swiss cheese	171251		Cheese, swiss
+monterey jack	170844		Cheese, monterey
+pepper jack	170844		Cheese, monterey
+provolone	170850		Cheese, provolone
+blue cheese	172175		Cheese, blue
+brie	172177		Cheese, brie
+fontina	170843		Cheese, fontina
+american cheese	170853		Cheese, pasteurized process, American, fortified with vitamin D
+queso fresco	172223		Cheese, fresh, queso fresco
+cotija	170898		Cheese, mexican, queso cotija
+paneer	171248		Cheese, ricotta, part skim milk
+evaporated milk	171276		Milk, canned, evaporated, with added vitamin D and without added vitamin A
+sweetened condensed milk	171275		Milk, canned, condensed, sweetened
+chicken breast	171077	each=230	Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+boneless skinless chicken breast	171077	each=230	Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+chicken tender	171077	each=45	Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+chicken thigh	173627	each=115	Chicken, broilers or fryers, dark meat, thigh, meat only, raw
+boneless skinless chicken thigh	173627	each=115	Chicken, broilers or fryers, dark meat, thigh, meat only, raw
+bone in skin on chicken thigh	172385	each=170;edible=0.8	Chicken, broilers or fryers, thigh, meat and skin, raw
+skin on chicken thigh	172385	each=170;edible=0.8	Chicken, broilers or fryers, thigh, meat and skin, raw
+chicken drumstick	172373	each=115;edible=0.7	Chicken, broilers or fryers, drumstick, meat and skin, raw
+chicken leg	172378	each=320;edible=0.72	Chicken, broilers or fryers, leg, meat and skin, raw
+chicken wing	172390	each=90;edible=0.6	Chicken, broilers or fryers, wing, meat and skin, raw
+whole chicken	171447	each=1800;edible=0.7	Chicken, broilers or fryers, meat and skin, raw
+rotisserie chicken	171450	each=900	Chicken, broilers or fryers, meat and skin, cooked, roasted
+cooked chicken	171054		Chicken, broilers or fryers, meat only, cooked, roasted
+shredded chicken	171054		Chicken, broilers or fryers, meat only, cooked, roasted
+ground chicken	171116		Chicken, ground, raw
+ground turkey	171505		Turkey, Ground, raw
+turkey breast	171098		Turkey, whole, breast, meat only, raw
+duck breast	172408		Duck, domesticated, meat and skin, raw
+ground beef	174036		Beef, ground, 80% lean meat / 20% fat, raw
+80/20 ground beef	174036		Beef, ground, 80% lean meat / 20% fat, raw
+85/15 ground beef	171796		Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)
+90/10 ground beef	174030		Beef, ground, 90% lean meat / 10% fat, raw
+93/7 ground beef	173110		Beef, ground, 93% lean meat / 7% fat, raw
+lean ground beef	174030		Beef, ground, 90% lean meat / 10% fat, raw
+beef chuck	169491		Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+chuck roast	169491		Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+beef stew meat	169491		Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+flank steak	169433		Beef, flank, steak, separable lean and fat, trimmed to 0" fat, choice, raw
+skirt steak	169433		Beef, flank, steak, separable lean and fat, trimmed to 0" fat, choice, raw
+sirloin steak	168728		Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8" fat, choice, raw
+ribeye	169512		Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, choice, raw
+ribeye steak	169512		Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, choice, raw
+strip steak	169538		Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+new york strip	169538		Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+tenderloin steak	169542		Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+filet mignon	169542		Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+beef short rib	169439	edible=0.6	Beef, rib, shortribs, separable lean and fat, choice, raw
+brisket	168666		Beef, brisket, flat half, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+beef tenderloin	169542		Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+pork shoulder	167843		Pork, fresh, shoulder, whole, separable lean and fat, raw
+pork butt	167843		Pork, fresh, shoulder, whole, separable lean and fat, raw
+pork loin	167818		Pork, fresh, loin, whole, separable lean and fat, raw
+pork tenderloin	168249		Pork, fresh, loin, tenderloin, separable lean only, raw
+pork chop	168238	each=200;edible=0.85	Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, raw
+boneless pork chop	167839	each=170	Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw
+ground pork	167902		Pork, fresh, ground, raw
+pork belly	167812		Pork, fresh, belly, raw
+bacon	168277	slice=28;strip=28	Pork, cured, bacon, unprepared
+thick cut bacon	168277	slice=40;strip=40	Pork, cured, bacon, unprepared
+pancetta	168277		Pork, cured, bacon, unprepared
+ham	173864		Ham, sliced, regular (approximately 11% fat)
+prosciutto	168295	slice=12	Pork, cured, ham, boneless, extra lean and regular, unheated
+italian sausage	171631	link=85	Sausage, Italian, pork, mild, raw
+sausage	171631	link=85	Sausage, Italian, pork, mild, raw
+chorizo	173859	link=60	Sausage, pork, chorizo, link or ground, raw
+pepperoni	174575		Pepperoni, beef and pork, sliced
+hot dog	173862	each=45	Frankfurter, beef, unheated
+ground lamb	174370		Lamb, ground, raw
+lamb shoulder	172496		Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, raw
+leg of lamb	174311		Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb chop	172551	each=110;edible=0.75	Lamb, loin, separable lean and fat, trimmed to 1/8" fat, choice, raw
+salmon	175167	fillet=170	Fish, salmon, Atlantic, farmed, raw
+salmon fillet	175167	each=170	Fish, salmon, Atlantic, farmed, raw
+wild salmon	173691	each=170	Fish, salmon, sockeye, raw
+smoked salmon	173687		Fish, salmon, chinook, smoked
+canned salmon	173690		Fish, salmon, pink, canned, total can contents
+shrimp	175179		Crustaceans, shrimp, raw
+prawn	175179		Crustaceans, shrimp, raw
+cod	171955	fillet=170	Fish, cod, Atlantic, raw
+white fish	171955	fillet=170	Fish, cod, Atlantic, raw
+tilapia	175176	fillet=115	Fish, tilapia, raw
+halibut	174200		Fish, halibut, Atlantic and Pacific, raw
+tuna steak	175159		Fish, tuna, fresh, yellowfin, raw
+ahi tuna	175159		Fish, tuna, fresh, yellowfin, raw
+canned tuna	173709	can=142	Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)
+tuna	173709	can=142	Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)
+sardine	175139	can=92	Fish, sardine, Atlantic, canned in oil, drained solids with bone
+anchovy	174183	each=4;fillet=4	Fish, anchovy, european, canned in oil, drained solids
+anchovy fillet	174183	each=4	Fish, anchovy, european, canned in oil, drained solids
+trout	173717		Fish, trout, rainbow, farmed, raw
+catfish	175165		Fish, catfish, channel, farmed, raw
+mahi mahi	171959		Fish, mahimahi, raw
+sea bass	175142		Fish, sea bass, mixed species, raw
+scallop	174220	each=30	Mollusks, scallop, mixed species, raw
+mussel	174216	edible=0.35	Mollusks, mussel, blue, raw
+clam	174214		Mollusks, clam, mixed species, raw
+crab	174204		Crustaceans, crab, blue, raw
+crab meat	171966		Crustaceans, crab, blue, canned
+lobster	174208		Crustaceans, lobster, northern, raw
+squid	174223		Mollusks, squid, mixed species, raw
+black bean	175238	can=255	Beans, black, mature seeds, canned, low sodium
+canned black bean	175238	can=255	Beans, black, mature seeds, canned, low sodium
+dried black bean	173734		Beans, black, mature seeds, raw
+chickpea	173801	can=240	Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water
+garbanzo bean	173801	can=240	Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water
+canned chickpea	173801	can=240	Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water
+dried chickpea	173756		Chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+kidney bean	174285	can=255	Beans, kidney, red, mature seeds, canned, drained solids
+pinto bean	173797	can=255	Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water
+cannellini bean	175204	can=255	Beans, white, mature seeds, canned
+white bean	175204	can=255	Beans, white, mature seeds, canned
+great northern bean	175192	can=255	Beans, great northern, mature seeds, canned
+lentil	172420		Lentils, raw
+red lentil	174284		Lentils, pink or red, raw
+brown lentil	172420		Lentils, raw
+green lentil	172420		Lentils, raw
+cooked lentil	172421		Lentils, mature seeds, cooked, boiled, without salt
+split pea	172428		Peas, green, split, mature seeds, raw
+refried bean	172438		Refried beans, canned, traditional style
+tofu	172475		Tofu, raw, firm, prepared with calcium sulfate
+firm tofu	172475		Tofu, raw, firm, prepared with calcium sulfate
+extra firm tofu	172475		Tofu, raw, firm, prepared with calcium sulfate
+silken tofu	172449		Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)
+tempeh	174272		Tempeh
+soy milk	172446		Soymilk, original and vanilla, unfortified
+hummus	174289		Hummus, commercial
+peanut butter	172470		Peanut butter, smooth style, without salt
+flour	168894		Wheat flour, white, all-purpose, enriched, bleached
+all purpose flour	168894		Wheat flour, white, all-purpose, enriched, bleached
+plain flour	168894		Wheat flour, white, all-purpose, enriched, bleached
+bread flour	168896		Wheat flour, white, bread, enriched
+whole wheat flour	168893	cup=120	Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)
+cake flour	169723		Wheat flour, white, cake, enriched
+self rising flour	168895		Wheat flour, white, all-purpose, self-rising, enriched
+cornstarch	169698		Cornstarch
+corn starch	169698		Cornstarch
+cornmeal	168867		Cornmeal, degermed, enriched, yellow
+polenta	168867		Cornmeal, degermed, enriched, yellow
+masa harina	169694		Corn flour, masa, enriched, white
+rice flour	169714		Rice flour, white, unenriched
+almond flour	170568		Nuts, almonds, blanched
+rice	168877		Rice, white, long-grain, regular, raw, enriched
+white rice	168877		Rice, white, long-grain, regular, raw, enriched
+long grain rice	168877		Rice, white, long-grain, regular, raw, enriched
+jasmine rice	168877		Rice, white, long-grain, regular, raw, enriched
+basmati rice	168877		Rice, white, long-grain, regular, raw, enriched
+short grain rice	168931		Rice, white, short-grain, raw, unenriched
+sushi rice	168931		Rice, white, short-grain, raw, unenriched
+arborio rice	168879		Rice, white, medium-grain, raw, enriched
+brown rice	169703		Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)
+cooked rice	168878		Rice, white, long-grain, regular, enriched, cooked
+cooked white rice	168878		Rice, white, long-grain, regular, enriched, cooked
+cooked brown rice	169704		Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)
+pasta	169736		Pasta, dry, enriched
+spaghetti	169736		Pasta, dry, enriched
+penne	169736		Pasta, dry, enriched
+rigatoni	169736		Pasta, dry, enriched
+linguine	169736		Pasta, dry, enriched
+fettuccine	169736		Pasta, dry, enriched
+macaroni	169736		Pasta, dry, enriched
+orzo	169736		Pasta, dry, enriched
+whole wheat pasta	169738		Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)
+egg noodle	169731		Noodles, egg, dry, enriched
+rice noodle	169742		Rice noodles, dry
+ramen noodle	169731		Noodles, egg, dry, enriched
+udon	168908		Noodles, japanese, somen, dry
+soba	168906		Noodles, japanese, soba, dry
+couscous	169699		Couscous, dry
+quinoa	168874		Quinoa, uncooked
+oat	173904		Cereals, oats, regular and quick, not fortified, dry
+rolled oat	173904		Cereals, oats, regular and quick, not fortified, dry
+old fashioned oat	173904		Cereals, oats, regular and quick, not fortified, dry
+steel cut oat	173904		Cereals, oats, regular and quick, not fortified, dry
+barley	170284		Barley, pearled, raw
+farro	169721		Wheat, durum
+bulgur	170688		Bulgur, dry
+breadcrumb	174928		Bread, crumbs, dry, grated, plain
+panko	174928		Bread, crumbs, dry, grated, plain
+bread	174924	slice=27	Bread, white, commercially prepared (includes soft bread crumbs)
+white bread	174924	slice=27	Bread, white, commercially prepared (includes soft bread crumbs)
+whole wheat bread	172688	slice=32	Bread, whole-wheat, commercially prepared
+sourdough bread	172675	slice=50	Bread, french or vienna (includes sourdough)
+baguette	172675	each=250	Bread, french or vienna (includes sourdough)
+crusty bread	172675	slice=40	Bread, french or vienna (includes sourdough)
+flour tortilla	175037	each=45	Tortillas, ready-to-bake or -fry, flour, refrigerated
+corn tortilla	175036	each=26	Tortillas, ready-to-bake or -fry, corn
+tortilla	175037	each=45	Tortillas, ready-to-bake or -fry, flour, refrigerated
+pita	174915	each=60	Bread, pita, white, enriched
+naan	171845	each=90	Bread, naan, plain, commercially prepared, refrigerated
+hamburger bun	172796	each=50	Rolls, hamburger or hotdog, plain
+tortilla chip	167558		Snacks, tortilla chips, plain, white corn, salted
+cracker	174982		Crackers, standard snack-type, regular
+graham cracker	174957		Cookies, graham crackers, plain or honey (includes cinnamon)
+olive oil	171413		Oil, olive, salad or cooking
+extra virgin olive oil	171413		Oil, olive, salad or cooking
+vegetable oil	172370	tbsp=13.6	Oil, vegetable, soybean, refined
+neutral oil	172336	tbsp=14	Oil, canola
+canola oil	172336	tbsp=14	Oil, canola
+avocado oil	173573		Oil, avocado
+coconut oil	171412		Oil, coconut
+sesame oil	171016		Oil, sesame, salad or cooking
+toasted sesame oil	171016		Oil, sesame, salad or cooking
+peanut oil	171410		Oil, peanut, salad or cooking
+sunflower oil	172338		Oil, sunflower, high oleic (70% and over)
+lard	171401		Lard
+shortening	173584		Shortening, vegetable, household, composite
+mayonnaise	171009		Salad dressing, mayonnaise, regular
+mayo	171009		Salad dressing, mayonnaise, regular
+bacon fat	172345		Animal fat, bacon grease
+soy sauce	174277		Soy sauce made from soy and wheat (shoyu)
+light soy sauce	174277		Soy sauce made from soy and wheat (shoyu)
+low sodium soy sauce	172473		Soy sauce made from soy and wheat (shoyu), low sodium
+tamari	174278		Soy sauce made from soy (tamari)
+dark soy sauce	174277		Soy sauce made from soy and wheat (shoyu)
+fish sauce	174531		Sauce, fish, ready-to-serve
+oyster sauce	174529		Sauce, oyster, ready-to-serve
+hoisin sauce	172886		Sauce, hoisin, ready-to-serve
+sriracha	171186		Sauce, hot chile, sriracha
+hot sauce	174527		Sauce, ready-to-serve, pepper or hot
+worcestershire sauce	171610		Sauce, worcestershire
+ketchup	168556		Catsup
+yellow mustard	172234		Mustard, prepared, yellow
+mustard	172234		Mustard, prepared, yellow
+dijon mustard	172234		Mustard, prepared, yellow
+whole grain mustard	172234		Mustard, prepared, yellow
+bbq sauce	174523		Sauce, barbecue
+barbecue sauce	174523		Sauce, barbecue
+salsa	174524		Sauce, salsa, ready-to-serve
+tomato paste	170459		Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)
+tomato sauce	170054		Tomato products, canned, sauce
+crushed tomato	170501		Tomatoes, crushed, canned
+canned tomato	170051		Tomatoes, red, ripe, canned, packed in tomato juice
+whole peeled tomato	170051		Tomatoes, red, ripe, canned, packed in tomato juice
+diced tomato	170051		Tomatoes, red, ripe, canned, packed in tomato juice
+canned diced tomato	170051		Tomatoes, red, ripe, canned, packed in tomato juice
+san marzano tomato	170051		Tomatoes, red, ripe, canned, packed in tomato juice
+sun dried tomato	169384		Tomatoes, sun-dried, packed in oil, drained
+marinara sauce	171192		Sauce, pasta, spaghetti/marinara, ready-to-serve
+pesto	171579		Sauce, pesto, ready-to-serve, refrigerated
+miso	172442		Miso
+white miso	172442		Miso
+tahini	170189		Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+honey	169640		Honey
+maple syrup	169661		Syrups, maple
+molasses	168820		Molasses
+sugar	169655		Sugars, granulated
+granulated sugar	169655		Sugars, granulated
+white sugar	169655		Sugars, granulated
+caster sugar	169655		Sugars, granulated
+brown sugar	168833		Sugars, brown
+light brown sugar	168833		Sugars, brown
+dark brown sugar	168833		Sugars, brown
+powdered sugar	169656		Sugars, powdered
+confectioners sugar	169656		Sugars, powdered
+icing sugar	169656		Sugars, powdered
+corn syrup	168837		Syrups, corn, light
+agave	170277		Sweetener, syrup, agave
+agave syrup	170277		Sweetener, syrup, agave
+jam	169641		Jams and preserves
+dark chocolate	170273		Chocolate, dark, 70-85% cacao solids
+bittersweet chocolate	170273		Chocolate, dark, 70-85% cacao solids
+semisweet chocolate chip	167976		Candies, semisweet chocolate
+chocolate chip	167976		Candies, semisweet chocolate
+milk chocolate	167587		Candies, milk chocolate
+cocoa powder	169593		Cocoa, dry powder, unsweetened
+unsweetened cocoa powder	169593		Cocoa, dry powder, unsweetened
+dutch process cocoa	169594		Cocoa, dry powder, unsweetened, processed with alkali
+vanilla extract	173471		Vanilla extract
+vanilla	173471		Vanilla extract
+baking powder	172803		Leavening agents, baking powder, double-acting, sodium aluminum sulfate
+baking soda	175040		Leavening agents, baking soda
+yeast	175043	packet=7;envelope=7	Leavening agents, yeast, baker's, active dry
+active dry yeast	175043	packet=7;envelope=7	Leavening agents, yeast, baker's, active dry
+instant yeast	175043	packet=7;envelope=7	Leavening agents, yeast, baker's, active dry
+cream of tartar	175041		Leavening agents, cream of tartar
+gelatin	169599	packet=7;envelope=7	Gelatins, dry powder, unsweetened
+chicken broth	174536		Soup, chicken broth, ready-to-serve
+chicken stock	172884		Soup, stock, chicken, home-prepared
+low sodium chicken broth	172888		Soup, chicken broth, less/reduced sodium, ready to serve
+beef broth	171538		Soup, beef broth or bouillon canned, ready-to-serve
+beef stock	172883		Soup, stock, beef, home-prepared
+vegetable broth	171583		Soup, vegetable broth, ready to serve
+coconut milk	170173	can=400	Nuts, coconut milk, canned (liquid expressed from grated meat and water)
+canned coconut milk	170173	can=400	Nuts, coconut milk, canned (liquid expressed from grated meat and water)
+light coconut milk	174116		Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2
+coconut cream	170171		Nuts, coconut cream, canned, sweetened
+caper	172238		Capers, canned
+kalamata olive	169094	each=4	Olives, ripe, canned (small-extra large)
+olive	169094	each=4	Olives, ripe, canned (small-extra large)
+green olive	169096	each=3	Olives, pickled, canned or bottled, green
+dill pickle	168558	each=65	Pickles, cucumber, dill or kosher dill
+pickle	168558	each=65	Pickles, cucumber, dill or kosher dill
+sauerkraut	169279		Sauerkraut, canned, solids and liquids
+kimchi	170392		Cabbage, kimchi
+horseradish	173472		Horseradish, prepared
+chipotle in adobo	168577	each=12	Peppers, chili, green, canned
+roasted red pepper	168546		Peppers, sweet, red, canned, solids and liquids
+water chestnut	170067		Waterchestnuts, chinese, canned, solids and liquids
+vinegar	172237		Vinegar, distilled
+white vinegar	172237		Vinegar, distilled
+apple cider vinegar	173469		Vinegar, cider
+cider vinegar	173469		Vinegar, cider
+red wine vinegar	172240		Vinegar, red wine
+white wine vinegar	172240		Vinegar, red wine
+sherry vinegar	172240		Vinegar, red wine
+balsamic vinegar	172241		Vinegar, balsamic
+rice vinegar	172237		Vinegar, distilled
+seasoned rice vinegar	172237		Vinegar, distilled
+white wine	174837		Alcoholic beverage, wine, table, white
+dry white wine	174837		Alcoholic beverage, wine, table, white
+red wine	173190		Alcoholic beverage, wine, table, red
+dry red wine	173190		Alcoholic beverage, wine, table, red
+beer	168746		Alcoholic beverage, beer, regular, all
+sake	167723		Alcoholic beverage, rice (sake)
+shaoxing wine	167723		Alcoholic beverage, rice (sake)
+dry sherry	175112		Alcoholic beverage, wine, dessert, dry
+vodka	174815		Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
+rum	174815		Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
+bourbon	171919		Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof
+brandy	174815		Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
+water	173647		Beverages, water, tap, drinking
+ice	173647		Beverages, water, tap, drinking
+coffee	171890		Beverages, coffee, brewed, prepared with tap water
+espresso	171891		Beverages, coffee, brewed, espresso, restaurant-prepared
+tea	173227		Beverages, tea, black, brewed, prepared with tap water
+almond milk	174832		Beverages, almond milk, unsweetened, shelf stable
+salt	173468		Salt, table
+table salt	173468		Salt, table
+fine sea salt	173468		Salt, table
+sea salt	173468		Salt, table
+kosher salt	173468	tsp=4.8;tbsp=14.4;cup=230	Salt, table
+morton kosher salt	173468	tsp=4.8;tbsp=14.4;cup=230	Salt, table
+diamond crystal kosher salt	173468	tsp=2.8;tbsp=8.4;cup=135	Salt, table
+diamond crystal salt	173468	tsp=2.8;tbsp=8.4;cup=135	Salt, table
+flaky salt	173468	tsp=2.0;tbsp=6;pinch=0.3	Salt, table
+flaky sea salt	173468	tsp=2.0;tbsp=6;pinch=0.3	Salt, table
+maldon salt	173468	tsp=2.0;tbsp=6;pinch=0.3	Salt, table
+black pepper	170931		Spices, pepper, black
+ground black pepper	170931		Spices, pepper, black
+pepper	170931		Spices, pepper, black
+white pepper	170933		Spices, pepper, white
+red pepper flake	170932	tsp=1.8	Spices, pepper, red or cayenne
+crushed red pepper	170932	tsp=1.8	Spices, pepper, red or cayenne
+chili flake	170932	tsp=1.8	Spices, pepper, red or cayenne
+cayenne	170932		Spices, pepper, red or cayenne
+cayenne pepper	170932		Spices, pepper, red or cayenne
+paprika	171329		Spices, paprika
+smoked paprika	171329		Spices, paprika
+sweet paprika	171329		Spices, paprika
+chili powder	171319		Spices, chili powder
+ancho chili powder	171319		Spices, chili powder
+gochugaru	170932	tsp=1.8	Spices, pepper, red or cayenne
+cumin	170923		Spices, cumin seed
+ground cumin	170923		Spices, cumin seed
+cumin seed	170923		Spices, cumin seed
+coriander	170922		Spices, coriander seed
+ground coriander	170922		Spices, coriander seed
+coriander seed	170922		Spices, coriander seed
+turmeric	172231		Spices, turmeric, ground
+ground turmeric	172231		Spices, turmeric, ground
+cinnamon	171320		Spices, cinnamon, ground
+ground cinnamon	171320		Spices, cinnamon, ground
+cinnamon stick	171320	each=3	Spices, cinnamon, ground
+nutmeg	171326		Spices, nutmeg, ground
+clove	171321	each=0.1	Spices, cloves, ground
+ground clove	171321		Spices, cloves, ground
+whole clove	171321	each=0.1	Spices, cloves, ground
+cardamom	170919	pod=0.2;each=0.2	Spices, cardamom
+ground ginger	170926		Spices, ginger, ground
+garlic powder	171325		Spices, garlic powder
+onion powder	171327		Spices, onion powder
+curry powder	170924		Spices, curry powder
+garam masala	170924		Spices, curry powder
+five spice powder	170924		Spices, curry powder
+allspice	171315		Spices, allspice, ground
+fennel seed	171323		Spices, fennel seed
+mustard seed	170929		Spices, mustard seed, ground
+mustard powder	170929		Spices, mustard seed, ground
+dry mustard	170929		Spices, mustard seed, ground
+star anise	171316	each=0.6	Spices, anise seed
+saffron	170934		Spices, saffron
+italian seasoning	171328		Spices, oregano, dried
+herbes de provence	170938		Spices, thyme, dried
+za atar	170938		Spices, thyme, dried
+sesame seed	170150	tbsp=9	Seeds, sesame seeds, whole, dried
+poppy seed	171330		Spices, poppy seed
+almond	170567		Nuts, almonds
+sliced almond	170567		Nuts, almonds
+walnut	170187		Nuts, walnuts, english
+pecan	170182		Nuts, pecans
+cashew	170162		Nuts, cashew nuts, raw
+peanut	172430		Peanuts, all types, raw
+roasted peanut	174262		Peanuts, all types, dry-roasted, with salt
+pistachio	170184		Nuts, pistachio nuts, raw
+pine nut	170591		Nuts, pine nuts, dried
+hazelnut	170581		Nuts, hazelnuts or filberts
+macadamia	170178		Nuts, macadamia nuts, raw
+pumpkin seed	170556		Seeds, pumpkin and squash seed kernels, dried
+pepita	170556		Seeds, pumpkin and squash seed kernels, dried
+sunflower seed	170562		Seeds, sunflower seed kernels, dried
+chia seed	170554	tbsp=12	Seeds, chia seeds, dried
+flaxseed	169414	tbsp=7	Seeds, flaxseed
+ground flaxseed	169414	tbsp=7	Seeds, flaxseed
+hemp seed	170148	tbsp=10	Seeds, hemp seed, hulled
+almond butter	168588		Nuts, almond butter, plain, without salt added
+gochujang	2113732	tsp=6.3;tbsp=19	Gochujang, Korean red pepper paste (Sunchang label)
+korean chili paste	2113732	tsp=6.3;tbsp=19	Gochujang, Korean red pepper paste (Sunchang label)
+msg	2568847	tsp=4;tbsp=12	Monosodium glutamate, MSG (Ajinomoto label)
+monosodium glutamate	2568847	tsp=4;tbsp=12	Monosodium glutamate, MSG (Ajinomoto label)
+nutritional yeast	2064505	tbsp=5;cup=60	Nutritional yeast flakes (Bob's Red Mill label)
+sambal oelek	2016176	tsp=5;tbsp=15	Sambal oelek, chili paste (Huy Fong label)
+chili garlic sauce	2016176	tsp=5;tbsp=15	Sambal oelek, chili paste (Huy Fong label)
+oat milk	2257046		Oat milk, unsweetened, plain, refrigerated
+mascarpone	1917496	cup=230;tbsp=15	Cheese, mascarpone (label)
+halloumi	2071270		Cheese, halloumi (label)
+vital wheat gluten	168147		Vital wheat gluten
+chicken bouillon powder	171562		Soup, chicken broth or bouillon, dry
+chicken bouillon	171562	each=4	Soup, chicken broth or bouillon, dry
+bouillon cube	171562	each=4	Soup, chicken broth or bouillon, dry
+better than bouillon	171562	tsp=6	Soup, chicken broth or bouillon, dry
+mirin	2039206	tbsp=18;cup=290	Mirin, sweet rice seasoning (Kikkoman Aji-Mirin label)
