@@ -98,6 +98,8 @@ flowchart LR
 - **Verify.** Before you see anything, the recipe runs through a kitchen simulation. Are the times real (onions don't caramelize in 10 minutes)? Will the pan brown or steam? Will the sauce break? Is bite ten as good as bite one? Where will a home cook most likely fail? Then the numbers: the engine checks salt as a percentage of the dish against targets for 30+ dish types. In testing, a first draft came back salt-HIGH, and Claude fixed it before replying.
 - **Deliver.** Grams first, salt for every brand, °F and °C, and a sensory checkpoint at every step that can go wrong.
 
+**Science-first, never snobby.** Every technique is justified by a mechanism you can reuse elsewhere, and each recipe teaches at least one transferable principle. "Elevated" is a choice Claude makes per dish: by default it makes the best version of what people actually love to eat, and it only goes fancier when that makes your meal better or you ask for it. Jarred sauce, MSG and American cheese are fair game when they're the right tool.
+
 Two personalities on purpose. **Chef** maximizes deliciousness. **Nutritionist** treats your targets as hard constraints and hits them with the flavor levers that cost no calories: salt to target, acid, umami, aroma, browning, heat and texture. It puts the fat and sugar where your tongue meets them first instead of dissolving them into the dish.
 
 ## The nutrition engine
@@ -219,6 +221,10 @@ tests/       28 nutrition-engine and packaging tests (CI on Python 3.8 and 3.12)
 Cooked something with it? [Share it in Discussions](https://github.com/rainbrot/claude-cook/discussions). Did the skill get something wrong in your kitchen? [Open a recipe report](https://github.com/rainbrot/claude-cook/issues/new/choose). Those reports are the most valuable contribution there is. Ingredient name fixes, regional cuisines and substitutions are very welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If Claude Cook made you dinner, a ⭐ helps other people find it.
+
+## Inspiration
+
+The approach owes a lot to science-first home-cooking educators like Ethan Chlebowski and J. Kenji López-Alt, who explain *why* techniques work and cook for enjoyment rather than prestige. No affiliation or endorsement implied.
 
 ## License
 
