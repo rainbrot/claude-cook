@@ -213,7 +213,7 @@ skills/
 └── chef, nutritionist, meal-plan, nutrition-label, fridge, rescue/   slash-command shortcuts
 evals/       graded test cases for `claude plugin eval`
 examples/    unedited outputs from real sessions
-tests/       28 nutrition-engine and packaging tests (CI on Python 3.8 and 3.12)
+tests/       28 nutrition-engine and packaging tests (CI on Python 3.8 and 3.13)
 ```
 
 ## Contributing
